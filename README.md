@@ -9,7 +9,7 @@ Each challenge is contained in its own sub-folder. To run a solution, follow the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/go-coding-challenges.git
+    git clone https://github.com/araujgom/go-coding-challenges.git
     cd go-coding-challenges
     ```
 
